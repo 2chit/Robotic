@@ -1,0 +1,19 @@
+Unity Version: 2018.3.5f1
+
+Syntax:
+Vorschlag:
+
+public class Name
+{
+	private string _name;
+	public string name;
+
+	public void Name()
+	{
+		this.Name = "Name";
+	}
+
+	private void Name_()
+	{
+	}
+}
