@@ -31,7 +31,6 @@ ExportedObj/
 *.meta
 *.cs.meta
 *.info
-*
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
