@@ -31,11 +31,7 @@ ExportedObj/
 *.meta
 *.cs.meta
 *.info
-*.stamp
-*.CollabProxyEditor.dll
-*.TextMeshPro.dll
-*.exeO.log
-*.json
+*.log
 
 
 # Unity3D Generated File On Crash Reports
