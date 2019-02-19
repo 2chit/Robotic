@@ -18,3 +18,4 @@ public class playerGenerals : MonoBehaviour
         
     }
 }
+//test2 Server
