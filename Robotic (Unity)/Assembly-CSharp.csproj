@@ -63,8 +63,7 @@
     <Compile Include="Assets\Scripts\general\fps.cs" />
     <Compile Include="Assets\Scripts\Player\Movement\jump.cs" />
     <Compile Include="Assets\Scripts\Player\Movement\movement.cs" />
-    <Compile Include="Assets\Scripts\Player\Movement\Sliding Down.cs" />
-    <Compile Include="Assets\Scripts\Player\Others\playerGenerals.cs" />
+    <Compile Include="Assets\Scripts\Player\Movement\playerGenerals.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/divad/source/repos/Robotic/Robotic (Unity)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
