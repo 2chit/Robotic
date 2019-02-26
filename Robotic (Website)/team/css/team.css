@@ -2,13 +2,6 @@ body {
     margin: 0;
 }
 
-h1 {
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    padding-top: 20px;
-    font-size: 60px;
-}
-
 /* Nav Bar */
 ul.topnav {
     list-style-type: none;
@@ -47,7 +40,3 @@ ul.topnav li.right {
   ul.topnav li {float: none;}
 }
 /* Nav Bar Ende */
-
-/* Neon Text */
-
-/* Neon Text Ende */
