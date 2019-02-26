@@ -1127,12 +1127,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1864353620}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1f79a65c6a7eeb0419141f85395c404f, type: 3}
+  m_Script: {fileID: 11500000, guid: 5cd1fc02567b71d46a8c18d08e370c9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  items:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  player: 0
 --- !u!1 &1881209180
 GameObject:
   m_ObjectHideFlags: 0
