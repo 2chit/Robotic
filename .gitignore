@@ -1,9 +1,5 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+Robotic (Unity)\Library\metadata\*
+Robotic (Unity)\Assets\AssetStoreTools\*
 
 # Visual Studio cache directory
 .vs/

@@ -5,13 +5,17 @@ using UnityEngine;
 public class chest : MonoBehaviour {
 
     public GameObject[] items = new GameObject[5];
+    public bool player;
 
     private void OnMouseOver()
     {
-        if (Input.GetKeyDown("e"))
+        if (!player)
         {
-            Debug.Log("Kiste");
-            //TODO: Inventare öffnen
+            if (Input.GetKeyDown("e"))
+            {
+                Debug.Log("Kiste");
+                //TODO: Inventare öffnen
+            }
         }
     }
 }
