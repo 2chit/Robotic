@@ -40,3 +40,20 @@ ul.topnav li.right {
   ul.topnav li {float: none;}
 }
 /* Nav Bar Ende */
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.bild {
+    max-width: 100%;
+    height: auto;
+}
+html {
+    background: url(hintergrundbild.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+ }
