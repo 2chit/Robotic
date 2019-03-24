@@ -1,6 +1,9 @@
-Robotic/Robotic (Unity)\Library\*
-Robotic/Robotic (UNity)\Temp\*
-Robotic/Robotic (Unity)\Assets\AssetStoreTools\*
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
