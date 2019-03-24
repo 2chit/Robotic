@@ -1,0 +1,26 @@
+**2CHIT Robotic Projekt**
+
+
+Unity Version: 2018.3.5f1
+
+Syntax:
+Vorschlag:
+
+public class Name
+{
+	private string _name;
+	public string name;
+
+	public void Name()
+	{
+		this.Name = "Name";
+	}
+
+	private void Name_()
+	{
+	}
+}
+
+
+
+FÜR ALLE DIE NICHT WISSEN WIE MAN GITHUB MIT UNITY VERWENDEN KANN: https://www.youtube.com/watch?v=qpXxcvS-g3g
