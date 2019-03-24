@@ -122,7 +122,6 @@ C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.Analyti
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.Analytics.Tracker.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.Locator.dll
-C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.TextMeshPro.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEditor.dll
@@ -192,7 +191,6 @@ C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.V
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.VRModule.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.WindModule.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.XRModule.dll
-C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Vuforia.UnityExtensions.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.Cecil.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.SerializationLogic.dll
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.DataContract.dll
@@ -206,7 +204,6 @@ C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.Cecil.M
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEditor.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
-C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.TextMeshPro.pdb
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
@@ -274,7 +271,6 @@ C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.T
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\nunit.framework.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.Timeline.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\Vuforia.UnityExtensions.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 C:\Users\divad\source\repos\Robotic\Robotic (Unity)\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
