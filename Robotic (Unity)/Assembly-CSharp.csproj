@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\chest\chest.cs" />
+    <Compile Include="Assets\Scripts\Enemie\enemieBrain.cs" />
     <Compile Include="Assets\Scripts\general\fps.cs" />
     <Compile Include="Assets\Scripts\general\pauseMenu.cs" />
     <Compile Include="Assets\Scripts\mainmenu\mainmenu.cs" />
