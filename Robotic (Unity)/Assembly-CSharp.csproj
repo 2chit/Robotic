@@ -66,6 +66,8 @@
     <Compile Include="Assets\Scripts\mainmenu\mainmenu.cs" />
     <Compile Include="Assets\Scripts\Player\Movement\movement.cs" />
     <Compile Include="Assets\Scripts\Player\Others\playerGenerals.cs" />
+    <Compile Include="Assets\Scripts\Player\UseObejcts\useWeapons.cs" />
+    <Compile Include="Assets\Scripts\TestWeapon\bullet.cs" />
     <Compile Include="Assets\Scripts\TestWeapon\weaponScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/divad/source/repos/Robotic/Robotic (Unity)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
