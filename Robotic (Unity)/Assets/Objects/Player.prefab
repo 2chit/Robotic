@@ -191,7 +191,7 @@ MonoBehaviour:
   scaleSpeedMultiplicator:
   - 0.75
   - 0.2
-  jumpPower: 40
+  jumpPower: 20
   maxJumps: 2
   jumpButtenKeyboard: space
   jumpButtenController: Controller A

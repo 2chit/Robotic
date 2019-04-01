@@ -1284,5 +1284,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.72501487
       objectReference: {fileID: 0}
+    - target: {fileID: 5063484458493671939, guid: c9e1156ea3ca5a041b2dc9d65059888d,
+        type: 3}
+      propertyPath: currentAmmunition
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063484458493671939, guid: c9e1156ea3ca5a041b2dc9d65059888d,
+        type: 3}
+      propertyPath: maxAmmunition
+      value: 65535
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9e1156ea3ca5a041b2dc9d65059888d, type: 3}

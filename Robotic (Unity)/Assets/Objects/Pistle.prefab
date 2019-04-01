@@ -11,7 +11,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5063484458493671940}
   - component: {fileID: 5063484458493671941}
-  - component: {fileID: 5063484458493671942}
   - component: {fileID: 5063484458493671939}
   m_Layer: 0
   m_Name: Pistle
@@ -84,32 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!111 &5063484458493671942
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 8054049257166407599, guid: ed330b8aac5dde148a835505366bc979,
-    type: 3}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5063484458493671943}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  m_Animations:
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  - {fileID: 7400000, guid: 2e750cd8576d7e94fa4277ba20ce26bb, type: 2}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 1
-  m_CullingType: 0
 --- !u!114 &5063484458493671939
 MonoBehaviour:
   m_ObjectHideFlags: 0

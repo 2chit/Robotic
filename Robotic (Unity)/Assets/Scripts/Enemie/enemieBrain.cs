@@ -23,6 +23,7 @@ public class enemieBrain : MonoBehaviour
 
     private RaycastHit2D RayCast_()
     {
-        return Physics2D.Raycast(new Vector2(this.transform.position.x * (lookingToSide == true ? 1 : -1), this.weapon.transform.localScale.y * 1.1f + this.transform.localScale.y), new Vector2(this.transform.position.x * (lookingToSide == true ? 1 : -1) + (lookingToSide == true ? 1 : -1), this.weapon.transform.localScale.y * 1.1f + this.transform.localScale.y), canSeeTo);
+        Debug.DrawRay(new Vector2(this.weapon.transform.position.x + weapon.transform.localScale.x * 0.5f * (lookingToSide == true ? 1.1f : -1.1f), this.weapon.transform.position.y), new Vector2(canSeeTo * (lookingToSide == true ? 1 : -1), 0), Color.red);
+        return Physics2D.Raycast(new Vector2(this.weapon.transform.position.x + weapon.transform.localScale.x * 0.5f * (lookingToSide == true ? 1.1f : -1.1f), this.weapon.transform.position.y), new Vector2(canSeeTo * (lookingToSide == true ? 1 : -1), 0));
     }
 }
