@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Part 2</name>
+    <events>
+        <event-block sid="781072936008671">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="279340756365192" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Spawn another object" sid="216684689791421" type="Sprite">
+                    <param id="0" name="Object">Sprite</param>
+                    <param id="1" name="Layer">0</param>
+                    <param id="2" name="Image point">0</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

@@ -103,13 +103,36 @@
                 </animation>
             </animation-folder>
         </object-type>
+        <object-type name="Level1part2" sid="569461788135318">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="756745458674229" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Dabig\Documents\GitHub\Robotic\Robotic (Website)\Idee\img\Level\Villa\Level1part2.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="schwarz2160x1920jpg2" sid="492326804945664">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Solid" sid="247576283208812">
+                    <behavior id="solid" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="379776205846592" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Dabig\Desktop\schwarz-2160x1920.jpg.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
     </object-folder>
     <families />
     <layout-folder>
         <layout>Layout 1.xml</layout>
+        <layout>Part 2.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>Event sheet 1.xml</event-sheet>
+        <event-sheet>Part 2.xml</event-sheet>
     </event-folder>
     <global-instances />
     <sounds-folder />

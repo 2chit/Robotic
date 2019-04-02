@@ -178,7 +178,7 @@ MonoBehaviour:
   runningMulti: 1.75
   keyboardRunning: left shift
   controllerRunning: Controller B
-  timeToPeressAgain: 2
+  timeToPeressAgain: 13
   Crouchkeys:
   - s
   scaleHeightMultiplicator:

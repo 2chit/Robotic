@@ -918,7 +918,7 @@ PrefabInstance:
     - target: {fileID: 2500889151881537231, guid: 46328759843d3c94f839e43c56837a4e,
         type: 3}
       propertyPath: timeToPeressAgain
-      value: 20
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2500889151881537229, guid: 46328759843d3c94f839e43c56837a4e,
         type: 3}

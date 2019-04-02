@@ -11,7 +11,9 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     </configurations>
     <open-tabs>
         <layout active="1" order="0">Layout 1</layout>
+        <layout order="2">Part 2</layout>
         <event-sheet order="1">Event sheet 1</event-sheet>
+        <event-sheet order="3">Part 2</event-sheet>
     </open-tabs>
     <properties>
         <property expanded="1" name="About" />
@@ -32,5 +34,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/Sprite/" />
         <folder expanded="1" path="animation-folder/schwarz2160x1920jpg/" />
         <folder expanded="1" path="animation-folder/blaublue/" />
+        <folder expanded="1" path="animation-folder/Level1part2/" />
+        <folder expanded="1" path="animation-folder/schwarz2160x1920jpg2/" />
     </folders-expanded>
 </c2uistate>
