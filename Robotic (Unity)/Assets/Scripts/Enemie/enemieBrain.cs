@@ -7,7 +7,7 @@ public class enemieBrain : MonoBehaviour
     public bool standing;
     public bool lookingToSide; //true when right/ flase when left
     public string lookingFor;
-    public float canSeeTo;
+    public int canSeeTo;
 
     public GameObject weapon;
 

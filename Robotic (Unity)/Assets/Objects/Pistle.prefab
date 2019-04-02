@@ -72,12 +72,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: e6428de5eb9885f4b9998a79de457f28, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 85462932a2e635a47851fbf13caef2b6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 24.8, y: 35.07}
+  m_Size: {x: 0.97, y: 0.63}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -93,12 +93,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 5063484458493671943}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0217b4f8d38674a469f4122068a8e029, type: 3}
+  m_Script: {fileID: 11500000, guid: a00b2192600947c4688e1fcb5f6d9994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentAmmunition: 16
-  maxAmmunition: 16
-  bulletSprite: {fileID: 21300000, guid: 344110689c9fa024b9657651d1bd6ef4, type: 3}
-  damagePerBullet: 16
+  currentAmmunition: 32
+  maxAmmunition: 32
+  bulletSprite: {fileID: 21300000, guid: be9504578b5af8f40afa4b7b2e98a271, type: 3}
+  damagePerBullet: 32
   shootSide: 0
-  sleepTime: 6
+  sleepTime: 32

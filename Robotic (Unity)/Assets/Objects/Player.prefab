@@ -45,7 +45,6 @@ GameObject:
   - component: {fileID: 2500889151881537226}
   - component: {fileID: 2500889151881537231}
   - component: {fileID: 2500889151881537229}
-  - component: {fileID: 2500889151881537232}
   - component: {fileID: 2500889151881537230}
   m_Layer: 0
   m_Name: body
@@ -105,7 +104,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 173fb2ce495b33848800ed791fa7b0a8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 617fe20e4b760454cad0e16a13cbaec5, type: 3}
   m_Color: {r: 0.09803922, g: 0.15686275, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -172,25 +171,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 2500889151881537224}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e1f353b230cbc7419098518b58c887d, type: 3}
+  m_Script: {fileID: 11500000, guid: 52369a245d0836c46aaf34ff72861c4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  horizontalSpeed: 10
-  runningMulti: 1.35
+  horizontalSpeed: 4
+  runningMulti: 1.75
   keyboardRunning: left shift
   controllerRunning: Controller B
-  timeToPeressAgain: 20
+  timeToPeressAgain: 2
   Crouchkeys:
   - s
   scaleHeightMultiplicator:
   - 0.7
-  - 0.25
-  scaleWidthMultiplicator:
-  - 1.2
-  - 1.75
-  scaleSpeedMultiplicator:
-  - 0.75
   - 0.2
+  scaleWidthMultiplicator:
+  - 1.35
+  - 1.855
+  scaleSpeedMultiplicator:
+  - 0.7
+  - 0.125
   jumpPower: 20
   maxJumps: 2
   jumpButtenKeyboard: space
@@ -206,32 +205,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 2500889151881537224}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b73fe48e7fc1baf4098a32ea98ffed03, type: 3}
+  m_Script: {fileID: 11500000, guid: 837c12cb6107f954eae02c85b4b0e086, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   toFire:
   - v
   weapon: {fileID: 0}
   lookToSide: 0
---- !u!114 &2500889151881537232
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2500889151881537224}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5cd1fc02567b71d46a8c18d08e370c9e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  items:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  player: 1
 --- !u!114 &2500889151881537230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -241,7 +221,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2500889151881537224}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bffe3361f87e3844e815c8464172f407, type: 3}
+  m_Script: {fileID: 11500000, guid: 3a3b5ffd25f509a42b3fe2b839935af4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
