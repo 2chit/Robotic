@@ -6,7 +6,12 @@ h1 {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     padding-top: 20px;
-    font-size: 60px;
+    font-size: 40px;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30px;
 }
 
 /* Nav Bar */
@@ -48,13 +53,11 @@ ul.topnav li.right {
 }
 /* Nav Bar Ende */
 
-/* Neon Text */
-
-/* Neon Text Ende */
-
 img {
-    margin-left: 10%;
-    margin-right: auto;
-    width: 80%;
+    width: 800px;
     height: auto;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

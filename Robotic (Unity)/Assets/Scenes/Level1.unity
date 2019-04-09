@@ -759,6 +759,7 @@ GameObject:
   - component: {fileID: 551962058}
   - component: {fileID: 551962057}
   - component: {fileID: 551962060}
+  - component: {fileID: 551962061}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -844,6 +845,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objectToFollow: {fileID: 947375926}
   spaceBetween: 00000000fdffffff
+--- !u!114 &551962061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 551962056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 195b2c3bc72ebdb4d9409fdda9cc3df2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  framesPerSeconed: 60
 --- !u!1001 &556811307
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2012,6 +2026,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5715471049565629134, guid: 03412ec9507ba9646ba5cac0b0b2950a,
+        type: 3}
+      propertyPath: shootSide
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5715471049565629129, guid: 03412ec9507ba9646ba5cac0b0b2950a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2026,11 +2045,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FlipX
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5715471049565629134, guid: 03412ec9507ba9646ba5cac0b0b2950a,
-        type: 3}
-      propertyPath: shootSide
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03412ec9507ba9646ba5cac0b0b2950a, type: 3}
@@ -2144,6 +2158,11 @@ PrefabInstance:
     - target: {fileID: 7627430688657130255, guid: 6fd85875778558649a79c8b61517e11d,
         type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7627430688401059589, guid: 6fd85875778558649a79c8b61517e11d,
+        type: 3}
+      propertyPath: m_Interactable
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
