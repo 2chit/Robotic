@@ -221,7 +221,6 @@ MonoBehaviour:
   - 0.125
   jumpPower: 40
   maxJumps: 2
-  jumpButtenKeyboard: space
-  jumpButtenController: Controller A
-  ignoreForJumpCounterReset:
-  - {fileID: 0}
+  jumpButtensKeyboard:
+  - w
+  - space
