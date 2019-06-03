@@ -17,7 +17,7 @@ public class mainmenu : MonoBehaviour
     public void onClickSettings()
     {
         Debug.Log("Settings");
-        SceneManager.LoadScene(2); //Die 2 steht für den Scene Index. Der wird in den BUILD SETTINGS festgelegt. (File -> Bild Settings)
+        SceneManager.LoadScene(1); //Die 2 steht für den Scene Index. Der wird in den BUILD SETTINGS festgelegt. (File -> Bild Settings)
     }
 
     public void onClickPlay()
