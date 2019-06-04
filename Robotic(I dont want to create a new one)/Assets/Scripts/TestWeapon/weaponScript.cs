@@ -37,6 +37,7 @@ public class weaponScript : MonoBehaviour
             this.currentAmmunition--;
             this._currentSleepTime = this.sleepTime;
             CreateBullet_();
+            gameObject.GetComponent<AudioSource>().Play();
         }
     }
 
